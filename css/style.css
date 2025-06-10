@@ -10,9 +10,9 @@
     display: flex;
 }
 
-.header{
+header{
     background-color: lightblue;
-    padding: 10px 0;
+    padding: 10px 0px;
 }
 
 .col-20{
