@@ -89,3 +89,7 @@ text-align: right;
     margin: 50px auto;
 }
 
+.col-15{
+    width: 15%;
+    height: 500px;
+}
